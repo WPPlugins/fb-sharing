@@ -1,0 +1,460 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Facebook Sharing\n"
+"POT-Creation-Date: 2016-06-14 22:25+0200\n"
+"PO-Revision-Date: 2016-06-14 22:26+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: facebook-sharing.php\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/class-facebook-sharing-admin.php:114
+msgid "Your profile"
+msgstr "Votre profil"
+
+#: admin/class-facebook-sharing-admin.php:135
+msgid "Options saved."
+msgstr "Options enregistrées."
+
+#: admin/class-facebook-sharing-admin.php:144
+msgid "Facebook User ID"
+msgstr "ID Utilisateur Facebook"
+
+#: admin/class-facebook-sharing-admin.php:145
+msgid "This field is filled automatically when you login to Facebook"
+msgstr ""
+"Ce champ est rempli automatiquement lorsque vous vous connectez à Facebook."
+
+#: admin/class-facebook-sharing-admin.php:152
+msgid "Connect to Facebook"
+msgstr "Se connecter à Facebook"
+
+#: admin/class-facebook-sharing-admin.php:153
+msgid ""
+"By clicking this button, you will be redirecting to an external "
+"authentification server with HTTPS connection.<br>It's necessary to make a "
+"connection with Facebook. We don't collect or use any personnal (or public) "
+"data."
+msgstr ""
+"En cliquant sur ce bouton, vous serez redirigé sur un serveur "
+"d'authentification externe avec une connexion sécurisée HTTPS.<br>Ceci est "
+"nécessaire pour créer une connexion avec Facebook. Nous ne collectons ni "
+"utilisons aucune donnée personnelle (ou publique)."
+
+#: admin/class-facebook-sharing-admin.php:156
+msgid "<h3>What we will do with your Facebook profile ?</h3>"
+msgstr "<h3>Qu'est ce que nous allons faire de votre profil Facebook ?</h3>"
+
+#: admin/class-facebook-sharing-admin.php:157
+msgid ""
+"<p>All we will make is publish your WordPress posts to your Facebook "
+"Profile. Nothing else !</p>"
+msgstr ""
+"<p>Tout ce que nous ferons est publier vos articles WordPress sur votre "
+"profil Facebook. Rien d'autre !</p>"
+
+#: admin/class-facebook-sharing-admin.php:158
+msgid ""
+"<p>We don't include any ad, featured link or copyright. What you see on your "
+"WordPress post, you'll see that on your Facebook post.</p>"
+msgstr ""
+"<p>Nous n'incluons aucune publicité, aucun lien sponsorisé et aucun "
+"copyright. Ce que vous voyez sur votre article WordPress, vous le verrez sur "
+"votre post Facebook.</p>"
+
+#: admin/class-facebook-sharing-admin.php:161
+msgid "Renew connection to Facebook"
+msgstr "Renouveller la connection à Facebook"
+
+#: admin/class-facebook-sharing-admin.php:161
+msgid "Logout"
+msgstr "Déconnecter"
+
+#: admin/class-facebook-sharing-admin.php:162
+msgid "Your connection to Facebook is available until: "
+msgstr "Votre connection à Facebook est valide jusqu'au : "
+
+#: admin/class-facebook-sharing-admin.php:162
+msgid "Unlimited"
+msgstr "Illimité"
+
+#: admin/class-facebook-sharing-admin.php:162
+msgid "Y-m-d"
+msgstr "d/m/Y"
+
+#: admin/class-facebook-sharing-admin.php:171
+msgid "Enable auto-sharing"
+msgstr "Activer auto-publication"
+
+#: admin/class-facebook-sharing-admin.php:173
+#: admin/class-facebook-sharing-admin.php:181
+msgid "Enabled"
+msgstr "Activé"
+
+#: admin/class-facebook-sharing-admin.php:175
+#: admin/class-facebook-sharing-admin.php:183
+msgid "Disabled"
+msgstr "Désactivé"
+
+#: admin/class-facebook-sharing-admin.php:179
+msgid "Enable posts updates"
+msgstr "Activer mises à jour des posts"
+
+#: admin/class-facebook-sharing-admin.php:187
+msgid "Facebook page where auto-share"
+msgstr "Page Facebook vers où publier"
+
+#: admin/class-facebook-sharing-admin.php:200
+msgid "Share only posts with this category"
+msgstr "Publier seulement les articles de cette catégorie"
+
+#: admin/class-facebook-sharing-admin.php:203
+msgid "All categories"
+msgstr "Toutes catégories"
+
+#: admin/class-facebook-sharing-admin.php:208
+msgid "Appearance of Facebook posts"
+msgstr "Apparence des posts Facebook"
+
+#: admin/class-facebook-sharing-admin.php:210
+msgid "Post content"
+msgstr "Contenu de l'article"
+
+#: admin/class-facebook-sharing-admin.php:212
+msgid "Link to post"
+msgstr "Lien vers l'article"
+
+#: admin/class-facebook-sharing-admin.php:216
+msgid "Save Changes"
+msgstr "Enregistrer les modifications"
+
+#: admin/class-facebook-sharing-admin.php:223
+msgid "Why the Facebook connection isn't unlimited ?"
+msgstr "Pourquoi la connexion Facebook n'est pas illimitée ?"
+
+#: admin/class-facebook-sharing-admin.php:224
+msgid ""
+"It's only due to Facebook rules. By the past, connections on Facebook via "
+"Apps was unlimited. Now, with new security rules, connections are available "
+"during 2 months. After that, you will have to renew this connection."
+msgstr ""
+"Ceci est dû aux règles de Facebook. Par le passé, les connexions à Facebook "
+"via les Apps étaient illimitées. Maintenant, avec de nouvelles règles de "
+"sécurité, les connexions sont valables durant 2 mois. Après ça, vous devrez "
+"renouveler cette connexion."
+
+#: admin/class-facebook-sharing-admin.php:227
+msgid "Needs help ?"
+msgstr "Besoin d'aide ?"
+
+#: admin/class-facebook-sharing-admin.php:228
+msgid ""
+"On post screens, a contextual help is available. Just clic on \"Help\" in "
+"the top-right corner of your screen. A tab \"Facebook Sharing\" is here for "
+"you."
+msgstr ""
+"Sur les écrans d'articles, une aide contextuelle est disponible. Cliquez "
+"simplement sur \"Aide\" dans le coin supérieur droit de votre écran. Un "
+"onglet \"Facebook Sharing\" est là pour vous."
+
+#: admin/class-facebook-sharing-admin.php:229
+msgid ""
+"You can also visit the FAQ by clicking <a href=\"https://wordpress.org/"
+"plugins/fb-sharing/faq/\" target=\"_blank\">here</a>"
+msgstr ""
+"Vous pouvez également visiter la FAQ en cliquant <a href=\"https://wordpress."
+"org/plugins/fb-sharing/faq/\" target=\"_blank\">ici</a>."
+
+#: admin/class-facebook-sharing-admin.php:230
+msgid ""
+"If you don't find what you search, please open a topic <a href=\"https://"
+"wordpress.org/support/plugin/fb-sharing\" target=\"_blank\">here</a>"
+msgstr ""
+"Si vous ne trouvez pas ce que vous cherchez, merci d'ouvrir un ticket <a "
+"href=\"https://wordpress.org/support/plugin/fb-sharing\" target=\"_blank"
+"\">ici</a>."
+
+#: admin/class-facebook-sharing-admin.php:233
+msgid "Do you like this plugin ?"
+msgstr "Vous aimez cette extension ?"
+
+#: admin/class-facebook-sharing-admin.php:234
+msgid ""
+"Don't hesitate to give it your rate by clicking on the following stars !"
+msgstr ""
+"N'hésitez pas à donner une note en cliquant sur les étoiles suivantes !"
+
+#: admin/class-facebook-sharing-admin.php:244
+msgid "<span class=\"fs-pro-notif\">PRO</span> Version"
+msgstr "<span class=\"fs-pro-notif\">PRO</span> Version"
+
+#: admin/class-facebook-sharing-admin.php:245
+msgid ""
+"More features available now, and more and more in the future !<br>If you buy "
+"this PRO version, future releases will be free for life, no additional "
+"costs. Visit CodeCanyon website to buy my PRO version of this plugin"
+msgstr ""
+"Plus de fonctionnalités disponibles maintenance, et encore plus dans le "
+"futur !<br>Si vous achetez la version PRO, les futures mises à jour seront "
+"gratuites à vie, aucun frais supplémentaire. Visitez CodeCanyon pour acheter "
+"la version PRO de cette extension."
+
+#: admin/class-facebook-sharing-admin.php:246
+msgid "Visit CodeCanyon"
+msgstr "Visiter CodeCanyon"
+
+#: admin/class-facebook-sharing-admin.php:302
+#: admin/class-facebook-sharing-admin.php:333
+msgid "Publish on Facebook"
+msgstr "Publier sur Facebook"
+
+#: admin/class-facebook-sharing-admin.php:304
+#: admin/class-facebook-sharing-admin.php:335
+#: admin/class-facebook-sharing-admin.php:345
+#, php-format
+msgid "Page: <span class=\"description\">%1$s</span>"
+msgstr "Page : <span class=\"description\">%1$s</span>"
+
+#: admin/class-facebook-sharing-admin.php:316
+#, php-format
+msgid "Published <a href=\"%1$s\" target=\"_blank\" >here</a> !"
+msgstr "Publié <a href=\"%1$s\" target=\"_blank\" >ici</a> !"
+
+#: admin/class-facebook-sharing-admin.php:320
+msgid "Publication error :'("
+msgstr "Erreur publication :'("
+
+#: admin/class-facebook-sharing-admin.php:321
+msgid "Check your Facebook page to ensure no mistake!"
+msgstr "Vérifiez votre page Facebook pour vous assurer d'aucune erreur !"
+
+#: admin/class-facebook-sharing-admin.php:322
+msgid "Try again to publish?"
+msgstr "Essayer de nouveau de publier ?"
+
+#: admin/class-facebook-sharing-admin.php:344
+msgid "Publication scheduled"
+msgstr "Publication programmée"
+
+#: admin/class-facebook-sharing-admin.php:375
+msgid ""
+"To use Facebook Sharing, simply let checked the checkbox <em>Publish on "
+"Facebook</em> right before the <em>Publish</em> button. Facebook Sharing "
+"will do different actions according to the content of your post :"
+msgstr ""
+"Pour utiliser Facebook Sharing, il suffit simplement de laisser cochée la "
+"case <em>Publier sur Facebook</em> juste au dessus du bouton <em>Publier</"
+"em>. Facebook Sharing effectuera l'action adéquate selon le contenu de votre "
+"article :"
+
+#: admin/class-facebook-sharing-admin.php:377
+msgid "Simple post"
+msgstr "Article simple"
+
+#: admin/class-facebook-sharing-admin.php:377
+msgid ""
+"When you publish a simple post (with just text, without any attachment like "
+"photos), Facebook Sharing will just publish your post content on the "
+"Facebook page have selected on settings."
+msgstr ""
+"Lorsque vous publiez un article simple (contenant simplement du texte, sans "
+"aucun autre objet comme des photos), Facebook Sharing publiera simplement le "
+"texte de votre article sur la page Facebook que vous aurez choisie dans les "
+"réglages."
+
+#: admin/class-facebook-sharing-admin.php:378
+msgid "Post with featured picture"
+msgstr "Article avec image mise en avant"
+
+#: admin/class-facebook-sharing-admin.php:378
+msgid ""
+"When you publish a post with a featured picture, Facebook Sharing will "
+"include this picture on the Facebook post, with the content of your post."
+msgstr ""
+"Lorsque vous publiez un article avec une image mise en avant, Facebook "
+"Sharing incluera cette image dans votre post Facebook, avec le texte de "
+"votre article."
+
+#: admin/class-facebook-sharing-admin.php:379
+msgid "Post with gallery"
+msgstr "Article avec gallerie d'images"
+
+#: admin/class-facebook-sharing-admin.php:379
+msgid ""
+"When you put a pictures gallery on your WordPress post, Facebook Sharing "
+"will create an album on your Facebook page and include all the pictures of "
+"your post gallery on this new album.<br><strong>Depending of the number of "
+"pictures on your gallery, the publication may take time during which your "
+"browser will \"think\".</strong><br>To reduce this time, the plugin will "
+"make many parallel requests to publish your pictures. Thereby, your pictures "
+"will not be in the same order on your Facebook album and your WordPress "
+"gallery."
+msgstr ""
+"Si vous insérez une gallerie d'images dans votre article WordPress, Facebook "
+"Sharing ira créer un album photo sur votre page Facebook et y incluera "
+"toutes les photos de votre gallerie. <br><strong>Selon le nombre de photos "
+"de votre gallerie, la publication peut mettre un certain temps surant lequel "
+"votre navigateur \"réfléchira\".</strong><br>Pour réduire ce temps, le "
+"plugin va effectuer plusieurs requêtes en parallèle pour publier vos photos "
+"dans votre album. De ce fait, celles ci ne seront pas dans le même ordre sur "
+"votre album Facebook et dans votre gallerie WordPress."
+
+#: admin/class-facebook-sharing-admin.php:381
+msgid ""
+"In all case, your WordPress post must be <strong>published</strong> (and not "
+"a draft, or pending a review) or <strong>programming for publish</strong> to "
+"be send on your Facebook page."
+msgstr ""
+"Dans tous les cas, vos articles WordPress doivent être <strong>publiés</"
+"strong> (et non brouillons, ou en attente de relecture) ou "
+"<strong>programmés à la publication</strong> pour être envoyés sur votre "
+"page Facebook."
+
+#: admin/partials/auth.php:8
+msgid "The connection isn't safe. Please try again."
+msgstr "La connexion n'est pas sûre. Veuillez essayer de nouveau."
+
+#. Plugin Name of the plugin/theme
+msgid "Facebook Sharing"
+msgstr "Facebook Sharing"
+
+#. Plugin URI of the plugin/theme
+msgid "http://jba-development.fr"
+msgstr "http://jba-development.fr"
+
+#. Description of the plugin/theme
+msgid ""
+"A plugin which permit to share all your posts on Facebook timeline or page."
+msgstr ""
+"Une extension qui permet de publier tous vos articles sur votre journal ou "
+"votre page Facebook."
+
+#. Author of the plugin/theme
+msgid "Jean-Baptiste Aramendy"
+msgstr "Jean-Baptiste Aramendy"
+
+#. Author URI of the plugin/theme
+msgid "http://jba-development.fr/"
+msgstr "http://jba-development.fr"
+
+#~ msgid ""
+#~ "More features available now, and more and more in the future ! Future "
+#~ "releases will be free for PRO version, no additional costs. Visit "
+#~ "CodeCanyon website to buy my PRO version of this plugin"
+#~ msgstr ""
+#~ "Plus de fonctionnalités maintenant, et encore plus dans le futur ! Les "
+#~ "prochaines mises à jour de la version PRO seront gratuites à vie, aucun "
+#~ "coût additionnel. Visitez CodeCanyon pour acheter la version PRO de cette "
+#~ "extension."
+
+#~ msgid ""
+#~ "If enabled, you will can update Facebook posts when updating WordPress "
+#~ "posts."
+#~ msgstr ""
+#~ "Si activé, vous pourrez mettre à jour vos posts Facebook lorsque vous "
+#~ "mettrez à jour vos articles."
+
+#~ msgid ""
+#~ "To display links on Facebook, you must put featured picture on your posts."
+#~ msgstr ""
+#~ "Pour publier des liens sur Facebook, vous devrez insérer une Image à la "
+#~ "Une dans vos articles."
+
+#~ msgid ""
+#~ "Don't hesitate to give it your rate by clicking <a href=\"http://"
+#~ "codecanyon.net/item/facebook-sharing-pro/16467783\" target=\"_blank\" "
+#~ ">here</a>!"
+#~ msgstr ""
+#~ "N'hésitez pas à donner une note en cliquant <a href=\"http://codecanyon."
+#~ "net/item/facebook-sharing-pro/16467783\" target=\"_blank\" >ici</a> !"
+
+#~ msgid "Publish if category: <span class=\"description\">%1$s</span>"
+#~ msgstr "Publier si catégorie <span class=\"description\">%1$s</span>"
+
+#~ msgid "Update on Facebook"
+#~ msgstr "Mettre à jour sur Facebook"
+
+#~ msgid "Updated!"
+#~ msgstr "Mis à jour !"
+
+#~ msgid "Update error"
+#~ msgstr "Erreur de mise à jour"
+
+#~ msgid "Error message: %1$s"
+#~ msgstr "Message d'erreur : %1$s"
+
+#~ msgid ""
+#~ "If you choose to display a link to the post on the settings, the plugin "
+#~ "will only post a link to your post on Facebook, whatever the content of "
+#~ "your post."
+#~ msgstr ""
+#~ "Si vous choisissez d'afficher un lien vers votre article dans les "
+#~ "réglages, l'extension postera uniquement un lien vers votre article sur "
+#~ "Facebook, quelque soit le contenu de votre article."
+
+#~ msgid "Status"
+#~ msgstr "Statut"
+
+#~ msgid "Published <a href=\"%1$s\" target=\"_blank\" >here</a>"
+#~ msgstr "Publié <a href=\"%1$s\" target=\"_blank\" >ici</a>"
+
+#~ msgid "Scheduled"
+#~ msgstr "Programmé"
+
+#~ msgid "Not published"
+#~ msgstr "Non publié"
+
+#~ msgid "Error: %1$s"
+#~ msgstr "Erreur : %1$s"
+
+#~ msgid "Posting pictures error"
+#~ msgstr "Erreur publication photos FB"
+
+#~ msgid "Creating album error"
+#~ msgstr "Erreur création album FB"
+
+#~ msgid "Unknow error"
+#~ msgstr "Erreur inconnue"
+
+#~ msgid "Posting error"
+#~ msgstr "Erreur publication FB"
+
+#~ msgid "No featured picture"
+#~ msgstr "Pas d'image à la une"
+
+#~ msgid "There is no changelog available."
+#~ msgstr "Aucun journal des modifications disponible."
+
+#~ msgid "Check for updates"
+#~ msgstr "Vérifier les mises à jour"
+
+#~ msgid "This plugin is up to date."
+#~ msgstr "Cette extension est à jour."
+
+#~ msgid "A new version of this plugin is available."
+#~ msgstr "Une nouvelle version de cette extension est disponible."
+
+#~ msgid "Unknown update checker status \"%s\""
+#~ msgstr "Statut de Update Checker inconnu : \"%s\""
+
+#~ msgid "Facebook Sharing Pro"
+#~ msgstr "Facebook Sharing Pro"
+
+#~ msgid ""
+#~ "It's only due to Facebook rules. By the past, connexions on Facebook via "
+#~ "Apps was unlimited. Now, with new security rules, connexions are "
+#~ "available during 2 months. After that, you will have to renew this "
+#~ "connection."
+#~ msgstr "Ceci est dû aux règles de Facebook. Par le passé, les "

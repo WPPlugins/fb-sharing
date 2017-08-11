@@ -1,0 +1,76 @@
+/**** ADMIN MENUS ****/
+div#fs-authorisation-card, div#fs-authorisation-card-ok {
+    margin: 0px;
+    padding: 0px 10px;
+    font-weight: bold;
+    border-radius: 5px;
+    color: white;
+}
+div#fs-authorisation-card, div#fs-authorisation-card-ok input {
+    margin-left: 15px;
+}
+div#fs-authorisation-card {
+    background-color: rgb(206, 62, 4);
+}
+div#fs-authorisation-card-ok {
+    background-color: rgb(80, 165, 54);
+}
+input#fs_fb_option_logout {
+    color: white;
+    background-color: #D52121;
+    border-color: #882200;
+}
+input#fs_fb_option_logout:active {
+    box-shadow: inset 0 2px 5px -3px rgba(0,0,0,.5);
+}
+span.fs-pro-notif {
+    color: rgb(190, 0, 0);
+    border: 1px solid rgb(190, 0, 0);
+    border-radius: 5px;
+    padding: 2px;
+    margin-right: 5px;
+}
+div#fb-sharing-content{
+    min-width: 700px;
+}
+div.fb-sharing-cell{
+    display: table-cell;
+    margin: 0;
+    padding: 0;
+    vertical-align: top;
+}
+@media (max-width: 992px) {
+    div.fb-sharing-cell {
+        display: block;
+    }
+}
+@media (max-width: 768px) {
+    div#fb-sharing-content{
+        min-width: 1px;
+    }
+}
+p#fb-sharing-rating-stars a {
+    text-decoration: none;
+    color: rgb(232, 223, 108);
+}
+/**** POST/PAGE PUBLICATION ****/
+span#fs-post-action-label:before {
+    content: "\f305";
+    font: 400 20px/1 dashicons;
+    color: #82878c;
+    display: inline-block;
+    padding: 0 5px 0 0;
+    top: 0;
+    left: -1px;
+    position: relative;
+    vertical-align: top;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-decoration: none !important
+}
+.misc-fs-post-action input {
+    margin-left: 5px;
+}
+#fs-post-page-label {
+    margin-left: 25px;
+}
